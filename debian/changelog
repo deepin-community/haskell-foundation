@@ -1,0 +1,84 @@
+haskell-foundation (0.0.25-deepin1) unstable; urgency=medium
+
+  * Rebuild
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:38:24 +0800
+
+haskell-foundation (0.0.25-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Sat, 30 May 2020 13:08:01 -0400
+
+haskell-foundation (0.0.23-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Sat, 27 Jul 2019 18:19:59 -0400
+
+haskell-foundation (0.0.21-2) unstable; urgency=medium
+
+  * Add Setup.hs missing from upstream tarball
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Thu, 04 Oct 2018 13:32:30 +0300
+
+haskell-foundation (0.0.21-1) unstable; urgency=medium
+
+  [ Clint Adams ]
+  * Set Rules-Requires-Root to no.
+
+  [ Ilias Tsitsimpis ]
+  * New upstream release
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Sat, 29 Sep 2018 15:02:07 +0300
+
+haskell-foundation (0.0.20-1) unstable; urgency=medium
+
+  * Bump to Standards-Version 4.1.4.
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Mon, 09 Apr 2018 15:58:50 -0400
+
+haskell-foundation (0.0.17-1) unstable; urgency=medium
+
+  [ Ilias Tsitsimpis ]
+  * Change Priority to optional. Since Debian Policy version 4.0.1,
+    priority extra has been deprecated.
+  * Use the HTTPS form of the copyright-format URL
+  * Modify d/watch and Source field in d/copyright to use HTTPS
+  * Declare compliance with Debian policy 4.1.1
+
+  [ Clint Adams ]
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Fri, 24 Nov 2017 15:43:35 -0500
+
+haskell-foundation (0.0.13-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Tue, 18 Jul 2017 23:22:16 -0400
+
+haskell-foundation (0.0.12-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Thu, 06 Jul 2017 17:32:09 -0400
+
+haskell-foundation (0.0.9-2) unstable; urgency=medium
+
+  * Run tests in C.UTF-8.  closes: #865101.
+
+ -- Clint Adams <clint@debian.org>  Mon, 19 Jun 2017 08:26:11 -0400
+
+haskell-foundation (0.0.9-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Sat, 17 Jun 2017 14:36:26 -0400
+
+haskell-foundation (0.0.8-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Clint Adams <clint@debian.org>  Tue, 09 May 2017 21:21:15 -0400
